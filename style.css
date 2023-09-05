@@ -1,0 +1,33 @@
+*{
+    margin: 10px;
+    text-align: center;
+
+}
+
+td, th{
+    background-color: #5f6368;
+    
+}
+.F{
+    background-color: #f7ecf3;
+}
+.E{
+    background-color: #6682d5;
+    color: #f7ecf3;
+
+}
+table{
+    width: 600px;
+    height:400px
+}
+    
+body .F{
+    text-align: right;
+}
+td{
+    border-radius: 10px;
+    width: 66px;
+}
+.white{
+    border-radius: 10px;
+}
